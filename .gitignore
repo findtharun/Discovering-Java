@@ -1,3 +1,6 @@
-/.idea/*
+**/.class
+### IntelliJ IDEA ###
 .idea
-/.class
+*.iws
+*.iml
+*.ipr
