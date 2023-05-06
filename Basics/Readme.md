@@ -3,7 +3,7 @@
  
 I am using Intellij for Coding.
 
-Key Checks to Setup Project
+Key Checks to Set up Project
 1. Set the Root Directory of your Project to Discovering-Java in Editor.
 2. Compile the Code with ```javac HelloWorld.java```
 3. Once Code is Compiled using javac, run from Root Directory Path.
