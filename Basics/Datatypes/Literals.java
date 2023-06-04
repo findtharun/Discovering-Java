@@ -1,3 +1,5 @@
+package Basics.Datatypes;
+
 class Literals {
     public static void main(String[] args) {
         int num1=0b101;

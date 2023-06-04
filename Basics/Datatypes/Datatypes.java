@@ -1,3 +1,4 @@
+package Basics.Datatypes;
 class Datatypes {
     public static void main(String args[]) {
         int num1 = 9; //4 Bytes
