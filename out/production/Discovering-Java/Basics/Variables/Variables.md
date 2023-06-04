@@ -1,1 +1,0 @@
-* camelCase should be used for Naming Variables.
