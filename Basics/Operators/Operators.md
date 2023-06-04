@@ -6,6 +6,15 @@
 
 ![img](compound_operators.png)
 
+<h2> Relational Operators</h2>
+
+![img](relational_operators.png)
+
+<h2> Ternary Operator</h2>
+
+![img](ternary.png)
+
 <h2> Operators Precedence and Associativity</h2>
 
 ![img](precdence.png)
+
