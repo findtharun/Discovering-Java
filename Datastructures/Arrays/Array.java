@@ -1,6 +1,6 @@
 package Datastructures.Arrays;
 
-public class Arrays {
+public class Array {
     public static void main(String[] args) {
         //int[] arr = new int[3];
         int[] arr = {1, 2, 3};
